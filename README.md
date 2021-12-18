@@ -8,3 +8,6 @@ The list of objectives I need to complete for this project itself are:
  - The first application needs to be larger than the others
  - The images must link to the deployed application
  - The page must resize responsively for different sized screens
+
+ A list of additional tasks I would like to then work on:
+ - Add a reset css style sheet, to make styling consistent between browsers
