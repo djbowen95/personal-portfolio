@@ -36,5 +36,36 @@ header h2, header nav, header li {
 /* Code for the main body */ 
 main {
     margin-top: 65px;
+    margin-bottom: 20px;
     border: none;
+    flex: wrap;
 }
+
+#about-me {
+    max-width: 35%;
+    text-align: center;
+    flex: wrap;
+}
+
+section, article {
+    display: flex wrap;
+    ;
+}
+
+img {
+    max-width: 100%;
+}
+
+article {
+    display: inline-block;
+}
+
+/* Code for the footer */
+footer {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    border: none;
+    bottom: 0px;
+}
+
